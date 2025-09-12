@@ -1,5 +1,13 @@
+https://github.com/user-attachments/assets/98886de8-b4e8-4dd4-a8c9-49f01e144562
+
+
+
+
 ## TFLite_CNN_2DOF_Object_Tracking_Arm
 A 2DOF robotic arm for locking on any chosen object.
+
+
+
 Powered by #mobileNet model and #TensorFlow #Lite running on a raspi3.
 
 
