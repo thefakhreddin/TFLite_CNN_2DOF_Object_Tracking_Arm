@@ -1,6 +1,6 @@
 https://github.com/user-attachments/assets/98886de8-b4e8-4dd4-a8c9-49f01e144562
 
-
+https://github.com/thefakhreddin/TFLite_CNN_2DOF_Object_Tracking_Arm/blob/main/IMG_7572.JPG
 
 
 ## TFLite_CNN_2DOF_Object_Tracking_Arm
